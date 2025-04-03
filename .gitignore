@@ -1,0 +1,9 @@
+**/__pycache__/
+**/archive/
+**/archives/
+**/archived/
+src/
+.streamlit/secrets.toml
+fb_bet_venv/
+mappings/
+logs/*
