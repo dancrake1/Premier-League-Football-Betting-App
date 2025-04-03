@@ -130,7 +130,7 @@ streamlit run streamlit-dashboard.py
 ## Betfair
 
 To access live odds you will need a Betfair Account and key to access the API. Then a secrets.toml file will need to be saved in the .streamlit folder with the following info.
-
+```
 # .streamlit/secrets.toml
 betfair_username = "email"
 betfair_password = "password"
@@ -138,6 +138,7 @@ betfair_app_key = "key"
 betfair_cert_path = "path_to/client-2048.crt"
 betfair_key_path = "path_to/danielcrake/client-2048.key"
 betfair_cert_path_loc = "path_to_certs"
+```
 
 ## License
 
